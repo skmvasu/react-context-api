@@ -1,2 +1,1 @@
-# react-context-api
-Example app for react context api
+Example app for explaining React Context API. Written for the Tuts+ community
